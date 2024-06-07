@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @k2nath
+- 👋 Hi, I’m Tanmoy Paul
 - 👀 I’m interested in Wb development & desining.
 - 🌱 I’m currently learning Web Desining.
 - 💞️ I’m looking to collaborate on ...
